@@ -24,6 +24,7 @@ cd C:\Users\user\Desktop\test_automation\test_automation
 
 ### Step 3 - Install required dependencies
 pip install playwright openpyxl
+
 python -m playwright install
 
 ## Running the Tests
