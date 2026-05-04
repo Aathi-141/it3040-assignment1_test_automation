@@ -17,7 +17,7 @@ Year 3, Semester 1 at SLIIT.
 
 ### Step 1 - Clone or download this repository
 Download the ZIP and extract it, or clone using:
-git clone https://github.com/YOURUSERNAME/test_automation.git
+git clone https://github.com/Aathi-141/it3040-assignment1_test_automation
 
 ### Step 2 - Open Command Prompt and navigate to the folder
 cd C:\Users\user\Desktop\test_automation\test_automation
